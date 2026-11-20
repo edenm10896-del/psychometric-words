@@ -1,0 +1,1563 @@
+{
+ "אָבְנַיִים": {
+  "showNiqqud": true,
+  "root": "א-ב-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הקדר ישב מול האבניים ועיצב בידיו את גוש החימר לכד עגול.",
+  "needsReview": false
+ },
+ "אוֹצֵר": {
+  "showNiqqud": true,
+  "root": "א-צ-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "האוצר הוותיק נשא באחריות למטבעות הזהב של המלך, ואיש לא הורשה לגעת בהם בלעדיו.",
+  "needsReview": false
+ },
+ "אָחוּ": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הפרות שוטטו באחו הירוק שלמרגלות הגבעה ולעסו את העשב הרענן.",
+  "needsReview": false
+ },
+ "אִיחוּי": {
+  "showNiqqud": false,
+  "root": "א-ח-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לאחר הסכסוך הממושך פעל ראש העיר לאיחוי הקרעים בין השכונות.",
+  "needsReview": false
+ },
+ "אִלוּלֵא": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "לוּלֵא"
+  ],
+  "antonyms": [],
+  "example": "אִלוּלֵא עזרתו של השכן, הבית כולו היה עולה באש.",
+  "needsReview": false
+ },
+ "אֲלוּמָּה": {
+  "showNiqqud": false,
+  "root": "א-ל-ם",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בסוף יום הקציר עמדו בשדה עשרות אלומות קשורות, מוכנות להובלה לגורן.",
+  "needsReview": false
+ },
+ "אֲלוּמָּת אוֹר": {
+  "showNiqqud": false,
+  "root": "א-ל-ם",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אלומת אור דקה חדרה מבעד לסדק בתריס והאירה את פינת החדר.",
+  "needsReview": false
+ },
+ "אָמוֹדַאי": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "האמודאי ירד למעמקי הים עם מכל חמצן כדי לבחון את שרידי הספינה הטבועה.",
+  "needsReview": false
+ },
+ "אָמִיר": {
+  "showNiqqud": true,
+  "root": "א-מ-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הציפור קיננה באמיר העץ, הרחק מהישג ידם של הילדים.",
+  "needsReview": false
+ },
+ "אֲמַתְלָה": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "תּוֹאֲנָה"
+  ],
+  "antonyms": [],
+  "example": "הוא איחר לפגישה ותלה זאת באמתלה שקופה של פקק תנועה שאיש לא שמע עליו.",
+  "needsReview": false
+ },
+ "אָסָם": {
+  "showNiqqud": true,
+  "root": "א-ס-ם",
+  "synonyms": [
+   "מַמְגוּרָה"
+  ],
+  "antonyms": [],
+  "example": "אחרי הקציר מילאו האיכרים את האסמים בחיטה ובשעורה לקראת החורף.",
+  "needsReview": false
+ },
+ "אֶצְבָּעוֹן": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "סבתא ענדה אצבעון מתכת לפני שהחלה לרקום, כדי שהמחט לא תדקור אותה.",
+  "needsReview": false
+ },
+ "אֶקְרָן": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בחדר ההקרנה הוצג הסרט על אקרן ענק שכיסה את הקיר כולו.",
+  "needsReview": false
+ },
+ "אָרִיג": {
+  "showNiqqud": false,
+  "root": "א-ר-ג",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "החייט מישש את האריג העדין ובחר בו לתפירת שמלת הכלה.",
+  "needsReview": false
+ },
+ "אַרְכִיב / אַרְכִיּוֹן": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "גַּנְזַך"
+  ],
+  "antonyms": [],
+  "example": "החוקרת ביקשה גישה לארכיון העירייה כדי לעיין בפרוטוקולים מלפני מאה שנה.",
+  "needsReview": false
+ },
+ "אֲרָעִי": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הם התגוררו בצריף ארעי עד שתושלם בניית ביתם החדש.",
+  "needsReview": false
+ },
+ "אֶשְׁכּוֹל": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הכורם הגיש לאורחים אשכול כבד ועסיסי, שהענבים בו היו מתוקים כדבש.",
+  "needsReview": false
+ },
+ "בֵּאוּר": {
+  "showNiqqud": true,
+  "root": "ב-א-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בשולי העמוד הופיע ביאור קצר של המונחים הארמיים שבטקסט.",
+  "needsReview": false
+ },
+ "בְּגִלּוּפִין": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "מְבוּסָם"
+  ],
+  "antonyms": [],
+  "example": "אחרי כמה כוסות יין בחתונה היה הדוד בגילופין, ושר בקול רם שירים ישנים.",
+  "needsReview": false
+ },
+ "בְּגַפּוֹ": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הוא עלה לארץ בגפו, בלי משפחה ובלי חברים, והתחיל את חייו מאפס.",
+  "needsReview": false
+ },
+ "בּוּרְסְקִי / בּוּרְסְקַאי / בּוּרְסִי": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בעבר נאלץ הבורסקי לעבוד בשולי העיר, משום שהריח שעלה מבורות הבורסקאות היה בלתי נסבל.",
+  "needsReview": false
+ },
+ "בּוֹשׁ": {
+  "showNiqqud": true,
+  "root": "ב-ו-ש",
+  "synonyms": [
+   "נִכְלָם"
+  ],
+  "antonyms": [],
+  "example": "הנער בוש במעשהו והשפיל את מבטו כשהמורה נכנסה לכיתה.",
+  "needsReview": false
+ },
+ "בּוֹשֵׁשׁ": {
+  "showNiqqud": true,
+  "root": "ב-ו-ש",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "האורחים כבר ישבו לשולחן, אך החתן בושש לבוא, והמתח באולם גבר.",
+  "needsReview": false
+ },
+ "בִּיּוּת": {
+  "showNiqqud": true,
+  "root": "ב-י-ת",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "ביות הכלב החל לפני אלפי שנים, כשהאדם הקדמון התחיל לגדל גורי זאבים.",
+  "needsReview": false
+ },
+ "בֵּרָא": {
+  "showNiqqud": true,
+  "root": "ב-ר-א",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המתיישבים בֵּראו את היער כדי לפנות מקום לשדות ולבתים.",
+  "needsReview": false
+ },
+ "בֵּית בַּד": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בעונת המסיק נהרו האיכרים לבית הבד שבכפר, ובאוויר עמד ריח חריף של פרי כתוש.",
+  "needsReview": false
+ },
+ "בֵּית מַרְזֵחַ": {
+  "showNiqqud": false,
+  "root": "ר-ז-ח",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בשעת לילה מאוחרת יצאו המלחים מבית המרזח שבנמל, מתנודדים ושרים.",
+  "needsReview": false
+ },
+ "בַּלָּן": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הבלן הסיק את התנורים עוד לפני עלות השחר, כדי שהמים באמבטיות הציבוריות יהיו חמים לבואם של הרוחצים.",
+  "needsReview": false
+ },
+ "בְּמַפְגִּיעַ": {
+  "showNiqqud": false,
+  "root": "פ-ג-ע",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המפגינים הפרו במפגיע את הוראות השוטרים והתיישבו באמצע הכביש.",
+  "needsReview": false
+ },
+ "בַּעֲלִיל": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "התשובה שלו הייתה שגויה בעליל, ואיש מהנוכחים לא טרח להתווכח איתה.",
+  "needsReview": false
+ },
+ "בְּפוּמְבִּי / בְּפוּמְבֵּי": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "השר התנצל בפומבי, במסיבת עיתונאים שהועברה בשידור חי.",
+  "needsReview": false
+ },
+ "בָּצִיר": {
+  "showNiqqud": false,
+  "root": "ב-צ-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בעונת הבציר עובדים הכורמים מהבוקר עד הערב בין שורות הגפנים.",
+  "needsReview": false
+ },
+ "בָּצַר": {
+  "showNiqqud": true,
+  "root": "ב-צ-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בסוף הקיץ בצר הכורם את הגפנים הבשלות והעביר את הפרי לגת.",
+  "needsReview": false
+ },
+ "גָּדָה": {
+  "showNiqqud": true,
+  "root": "ג-ד-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בצהריים ישבו הדייגים על גדת הירקון והשליכו את חכותיהם למים.",
+  "needsReview": false
+ },
+ "גָהַר": {
+  "showNiqqud": true,
+  "root": "ג-ה-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "האם גהרה מעל עריסת התינוק ולחשה לו שיר ערש.",
+  "needsReview": false
+ },
+ "גּוּר": {
+  "showNiqqud": true,
+  "root": "ג-ו-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "גּוּר לך מן האיש הזה, כי אין כוונותיו טובות!",
+  "needsReview": true,
+  "reviewNote": "הפירוש בקובץ (\"הִזָּהֵר\") אינו שגרתי; במקרא \"גּוּרוּ לָכֶם\" פירושו \"פחדו\". כדאי לבדוק מול מקור נוסף."
+ },
+ "גְזוּזְטְרָה": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בערבי הקיץ ישבה המשפחה בגזוזטרה הצופה אל הים ושתתה תה.",
+  "needsReview": false
+ },
+ "גְּזִיר": {
+  "showNiqqud": true,
+  "root": "ג-ז-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "היא שמרה בקופסה גזירי עיתונים ישנים שבהם הוזכר שמו של סבה.",
+  "needsReview": false
+ },
+ "גִּלְעֵן": {
+  "showNiqqud": true,
+  "root": "ג-ל-ע-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לפני שהכינה את הריבה, גלענה הסבתא קילו של דובדבנים.",
+  "needsReview": false
+ },
+ "גַּרְגְרָן": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הילד הגרגרן חיסל לבדו את כל העוגה, ולא השאיר פירור לאחיו.",
+  "needsReview": false
+ },
+ "גַּת": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בחפירות נמצאה גת חצובה בסלע, ובה תעלה שהובילה את התירוש אל בור איסוף.",
+  "needsReview": false
+ },
+ "דָּגָה": {
+  "showNiqqud": true,
+  "root": "ד-ג-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "זיהום המים במפרץ פגע קשות בדגה, והדייגים חזרו מן הים ברשתות ריקות.",
+  "needsReview": false
+ },
+ "דּוֹבֵב": {
+  "showNiqqud": true,
+  "root": "ד-ב-ב",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "החוקר ניסה לדובב את החשוד השתקן בעזרת שיחה ידידותית על נושאים אחרים.",
+  "needsReview": false
+ },
+ "דִּידַקְטִי": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הספר נכתב בטון דידקטי מדי, כאילו הסופר מנסה להעביר לקוראיו שיעור.",
+  "needsReview": false
+ },
+ "דִּרְבּוּן": {
+  "showNiqqud": false,
+  "root": "ד-ר-ב-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לאחר דרבון מתמיד מצד המאמנת, הסכים הספורטאי להתחרות שוב.",
+  "needsReview": false
+ },
+ "הִבְלִיג": {
+  "showNiqqud": false,
+  "root": "ב-ל-ג",
+  "synonyms": [
+   "כָּבַשׁ"
+  ],
+  "antonyms": [],
+  "example": "למרות העלבון הבוטה, הוא הבליג ולא השיב לנואם במילה.",
+  "needsReview": false
+ },
+ "הִגֵּר": {
+  "showNiqqud": true,
+  "root": "ה-ג-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בשנות השמונים היגר הרופא לקנדה, ושם בנה את הקריירה שלו.",
+  "needsReview": false
+ },
+ "הֲדוֹם": {
+  "showNiqqud": true,
+  "root": "ה-ד-ם",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המלך ישב על כס מלכותו, ומשרת הגיש לו הדום מרופד בקטיפה.",
+  "needsReview": false
+ },
+ "הֶדְיוֹט": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [
+   "בּוּר (וְעַם הָאָרֶץ)"
+  ],
+  "antonyms": [],
+  "example": "בענייני משפט אני הדיוט גמור, ולכן שכרתי עורך דין שינחה אותי.",
+  "needsReview": false
+ },
+ "הִטְמִיעַ": {
+  "showNiqqud": false,
+  "root": "ט-מ-ע",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המורה הצליחה להטמיע בתלמידיה הרגלי קריאה שליוו אותם שנים רבות.",
+  "needsReview": false
+ },
+ "הִיסָּה": {
+  "showNiqqud": true,
+  "root": "ה-ס-ה",
+  "synonyms": [
+   "הַס"
+  ],
+  "antonyms": [],
+  "example": "האם היסתה את הילדים הרועשים כדי שלא יעירו את התינוק.",
+  "needsReview": false
+ },
+ "הִכְבִּיר בְּמִילִים": {
+  "showNiqqud": false,
+  "root": "כ-ב-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הנואם הכביר במילים במשך שעה ארוכה, והקהל החל לפהק.",
+  "needsReview": false
+ },
+ "הִכְחִישׁ": {
+  "showNiqqud": false,
+  "root": "כ-ח-ש",
+  "synonyms": [
+   "כָּפַר"
+  ],
+  "antonyms": [],
+  "example": "החשוד הכחיש כל קשר לפריצה, אף שטביעות אצבעותיו נמצאו בזירה.",
+  "needsReview": false
+ },
+ "הַס": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "הִיסָּה"
+  ],
+  "antonyms": [],
+  "example": "המדריך הרים את ידו וקרא \"הַס!\", ותוך רגע נדמו כל הלחישות באולם.",
+  "needsReview": false
+ },
+ "הִסְכִּית": {
+  "showNiqqud": false,
+  "root": "ס-כ-ת",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "התלמידים הסכיתו לדברי הניצול, ואיש מהם לא העז להפריע.",
+  "needsReview": false
+ },
+ "הִסְלִים": {
+  "showNiqqud": false,
+  "root": "ס-ל-ם",
+  "synonyms": [],
+  "antonyms": [
+   "שָׁכַך"
+  ],
+  "example": "הוויכוח בין השכנים הסלים במהירות, ובסופו נאלצו להזעיק את המשטרה.",
+  "needsReview": false
+ },
+ "הִסְמִיךְ": {
+  "showNiqqud": false,
+  "root": "ס-מ-ך",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "האוניברסיטה הסמיכה אותה לשמש מרצה מן המניין.",
+  "needsReview": false
+ },
+ "הֶעֱלָה אֲרוּכָה": {
+  "showNiqqud": false,
+  "root": "א-ר-ך",
+  "synonyms": [
+   "הִגְלִיד"
+  ],
+  "antonyms": [],
+  "example": "כעבור שבוע העלה הפצע ארוכה, והרופא הסיר את התחבושת.",
+  "needsReview": false
+ },
+ "הִפְלִיא בּוֹ אֶת מַכּוֹתָיו": {
+  "showNiqqud": false,
+  "root": "נ-כ-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הבריון תפס את הנער החלש והפליא בו את מכותיו, עד שהמורה התערבה.",
+  "needsReview": false
+ },
+ "הִפְלִיג בְּ -": {
+  "showNiqqud": false,
+  "root": "פ-ל-ג",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בנאום הפרידה הפליג המנהל בשבחיה של המזכירה הוותיקה.",
+  "needsReview": false
+ },
+ "הִצְפִּין": {
+  "showNiqqud": false,
+  "root": "צ-פ-ן",
+  "synonyms": [
+   "כִּיחֵד"
+  ],
+  "antonyms": [],
+  "example": "בקיץ הצפינו הנופשים לגליל, הרחק מהחום הכבד של הדרום.",
+  "needsReview": false
+ },
+ "הֵקִיץ": {
+  "showNiqqud": true,
+  "root": "ק-י-ץ",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בשש בבוקר הקיץ החייל לקול השופר, וקפץ ממיטתו.",
+  "needsReview": false
+ },
+ "הִשְׁחִיז": {
+  "showNiqqud": false,
+  "root": "ש-ח-ז",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לפני החג ישב הקצב והשחיז את סכיניו, עד שיכלו לחתוך נייר בקלות.",
+  "needsReview": false
+ },
+ "הִשְׁתָּאוּת": {
+  "showNiqqud": false,
+  "root": "ש-א-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הקהל צפה בהשתאות בלוליין שהלך על חבל דק בין שני מגדלים.",
+  "needsReview": false
+ },
+ "הִתְבַּשֵּׂר": {
+  "showNiqqud": false,
+  "root": "ב-ש-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המשפחה התבשרה על הולדת הנכדה הראשונה ופתחה בקבוק שמפניה.",
+  "needsReview": false
+ },
+ "הִתְגּוֹדֵד": {
+  "showNiqqud": false,
+  "root": "ג-ד-ד",
+  "synonyms": [
+   "הִתְקַהֵל"
+  ],
+  "antonyms": [],
+  "example": "סקרנים רבים התגודדו סביב זירת התאונה, והפריעו לאמבולנס להגיע.",
+  "needsReview": false
+ },
+ "הִתְחַלָּה": {
+  "showNiqqud": true,
+  "root": "ח-ל-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "כדי להתחמק מהמבחן, הוא התחלה ונשאר במיטה כל הבוקר.",
+  "needsReview": false
+ },
+ "הִתְחַסֵּד": {
+  "showNiqqud": false,
+  "root": "ח-ס-ד",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הפוליטיקאי התחסד בפני המצלמות, אף שכולם ידעו על מעלליו.",
+  "needsReview": false
+ },
+ "הִתִּיר": {
+  "showNiqqud": false,
+  "root": "נ-ת-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המלח התיר את החבל שקשר את הסירה למזח, והסירה החלה להתרחק.",
+  "needsReview": false
+ },
+ "הִתְכַּתֵּשׁ": {
+  "showNiqqud": false,
+  "root": "כ-ת-ש",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "שני האוהדים התכתשו ביציע, עד שהמאבטחים הפרידו ביניהם.",
+  "needsReview": false
+ },
+ "הִתְמוֹגֵג": {
+  "showNiqqud": false,
+  "root": "מ-ו-ג",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הסבא התמוגג למראה נכדו הצועד את צעדיו הראשונים.",
+  "needsReview": false
+ },
+ "הִתַּמֵּר": {
+  "showNiqqud": true,
+  "root": "ת-מ-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "עשן לבן התמר מן הארובה אל השמיים הבהירים.",
+  "needsReview": false
+ },
+ "הִתְנַבֵּא": {
+  "showNiqqud": false,
+  "root": "נ-ב-א",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הזקן התנבא שהבצורת תימשך שבע שנים, ואיש לא האמין לו.",
+  "needsReview": false
+ },
+ "הִתְנַכֵּר": {
+  "showNiqqud": false,
+  "root": "נ-כ-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אחרי שהתעשר, התנכר לחבריו מימי הילדות כאילו לא היו ולא נבראו.",
+  "needsReview": false
+ },
+ "הִתְנַצֵּחַ": {
+  "showNiqqud": false,
+  "root": "נ-צ-ח",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "חברי הכנסת התנצחו בקולי קולות, והיושב-ראש נאלץ להכריז על הפסקה.",
+  "needsReview": false
+ },
+ "הִתְעַמֵּר": {
+  "showNiqqud": false,
+  "root": "ע-מ-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המפקד האכזר התעמר בטירונים, והעיר אותם שוב ושוב באמצע הלילה.",
+  "needsReview": false
+ },
+ "הִתְעַרְטֵל": {
+  "showNiqqud": false,
+  "root": "ע-ר-ט-ל",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "השחיין התערטל מבגדיו העליונים ונכנס למי הבריכה הקפואים.",
+  "needsReview": false
+ },
+ "הִתְרָה": {
+  "showNiqqud": true,
+  "root": "ת-ר-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "השומר התרה בפולשים שאם לא יסתלקו, יזעיק את המשטרה.",
+  "needsReview": false
+ },
+ "הִתְרַצָּה": {
+  "showNiqqud": false,
+  "root": "ר-צ-ה",
+  "synonyms": [
+   "נֶעֱתַר",
+   "נֵאוֹת"
+  ],
+  "antonyms": [
+   "מֵאֵן"
+  ],
+  "example": "לאחר הפצרות רבות, התרצה האב והרשה לבתו לנסוע לטיול.",
+  "needsReview": false
+ },
+ "זַבָּן": {
+  "showNiqqud": true,
+  "root": "ז-ב-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הזבן בחנות הספרים המליץ לי על רומן חדש שיצא השבוע.",
+  "needsReview": false
+ },
+ "זֶרֶד": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "נֵצֶר"
+  ],
+  "antonyms": [],
+  "example": "הציפור אספה זרדים דקים ובנתה מהם קן על העץ.",
+  "needsReview": false
+ },
+ "זָרָה מֶלַח עַל הַפְּצָעִים": {
+  "showNiqqud": false,
+  "root": "ז-ר-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "כשהזכיר לחברו, ביום הפיטורים, את הקידום שלא קיבל, זרה מלח על הפצעים.",
+  "needsReview": false
+ },
+ "חַס": {
+  "showNiqqud": true,
+  "root": "ח-ו-ס",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המלך חס על חייו של השבוי הצעיר ושחרר אותו לביתו.",
+  "needsReview": false
+ },
+ "חֲרִי (אַף)": {
+  "showNiqqud": false,
+  "root": "ח-ר-ה",
+  "synonyms": [
+   "חָרוֹן (אַף)",
+   "חֵמָה"
+  ],
+  "antonyms": [],
+  "example": "בחרי אף גירש המנהל את העובד מן המשרד, וטרק אחריו את הדלת.",
+  "needsReview": false
+ },
+ "חָרִישׁ": {
+  "showNiqqud": true,
+  "root": "ח-ר-ש",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אחרי הגשם הראשון יצא החקלאי עם הטרקטור לחריש השדה.",
+  "needsReview": false
+ },
+ "חֲרִישִׁי": {
+  "showNiqqud": false,
+  "root": "ח-ר-ש",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בחדר ההמתנה נשמע רק זמזום חרישי של המזגן.",
+  "needsReview": false
+ },
+ "חָרָךְ": {
+  "showNiqqud": true,
+  "root": "ח-ר-ך",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "להבת המצית חרכה את שערות זרועו, וריח חריף התפשט בחדר.",
+  "needsReview": false
+ },
+ "טָוָה": {
+  "showNiqqud": true,
+  "root": "ט-ו-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המרגל טווה רשת של קשרים בתוך הממשל, עד שהגיע אל לב השלטון.",
+  "needsReview": false
+ },
+ "טְלַאי": {
+  "showNiqqud": false,
+  "root": "ט-ל-א",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המכנסיים הישנים היו מכוסים טלאים צבעוניים, ובכל זאת סירב להיפרד מהם.",
+  "needsReview": false
+ },
+ "טְרָשִׁים": {
+  "showNiqqud": false,
+  "root": "ט-ר-ש",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המתיישבים הראשונים נאבקו לגדל יבול על אדמת הטרשים של הגליל.",
+  "needsReview": false
+ },
+ "יָגֵעַ": {
+  "showNiqqud": true,
+  "root": "י-ג-ע",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אחרי משמרת כפולה בבית החולים חזרה האחות לביתה יגעה, ונרדמה עוד לפני ארוחת הערב.",
+  "needsReview": false
+ },
+ "יָד רוֹחֶצֶת יָד": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המכרז נקבע מראש: יד רוחצת יד, והחוזה הועבר לחברה של חבר המועצה.",
+  "needsReview": false
+ },
+ "יְקִיצָה": {
+  "showNiqqud": false,
+  "root": "י-ק-ץ",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "שעת היקיצה המוקדמת בבסיס הקשתה על הטירונים בשבוע הראשון.",
+  "needsReview": false
+ },
+ "יַרְכָתַיִים": {
+  "showNiqqud": false,
+  "root": "י-ר-ך",
+  "synonyms": [],
+  "antonyms": [
+   "חַרְטוֹם"
+  ],
+  "example": "הקברניט עמד בירכתי הספינה והשגיח על ההגה, בעוד המלחים פורקים את המטען.",
+  "needsReview": false
+ },
+ "כְּבַד לָשׁוֹן / פֶּה": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "עִילֵג"
+  ],
+  "antonyms": [],
+  "example": "משה רבנו היה כבד פה, ולכן אהרון דיבר בשמו אל פרעה.",
+  "needsReview": false
+ },
+ "כִּיחֵד": {
+  "showNiqqud": false,
+  "root": "כ-ח-ד",
+  "synonyms": [
+   "הִצְפִּין"
+  ],
+  "antonyms": [],
+  "example": "העד כיחד מהחוקרים פרטים חשובים, ובכך הכשיל את החקירה.",
+  "needsReview": false
+ },
+ "כִּילָּה": {
+  "showNiqqud": true,
+  "root": "כ-ל-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אחרי שכילה את מלאכתו, ישב הנגר לנוח בצל העץ.",
+  "needsReview": false
+ },
+ "כַּן / כַּנָּה": {
+  "showNiqqud": true,
+  "root": "כ-נ-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הפסל הוצב על כן שיש גבוה בכיכר העיר.",
+  "needsReview": false
+ },
+ "כְּסָיָה": {
+  "showNiqqud": true,
+  "root": "כ-ס-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בחורף הקר עטה הרוכב כסיות עור עבות כדי לשמור על חום אצבעותיו.",
+  "needsReview": false
+ },
+ "כְּרַךְ": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הוא עזב את הכפר השקט ועבר לגור בכרך הסואן.",
+  "needsReview": false
+ },
+ "לֵאוּת": {
+  "showNiqqud": false,
+  "root": "ל-א-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אחרי חצות ניכרו סימני לאות על פני השחקנים, אך ההופעה נמשכה.",
+  "needsReview": false
+ },
+ "לְדִידוֹ": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לדידו, אין שום טעם להמשיך במשא ומתן עם הצד השני.",
+  "needsReview": false
+ },
+ "לַהַג": {
+  "showNiqqud": false,
+  "root": "ל-ה-ג",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המאמר הארוך היה מלא להג ריק, ולא היה בו רעיון חדש אחד.",
+  "needsReview": false
+ },
+ "לַהֲגָן": {
+  "showNiqqud": true,
+  "root": "ל-ה-ג",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "השכן הלהגן עצר אותי במדרגות והחזיק אותי שם שעה ארוכה בשיחה על מזג האוויר.",
+  "needsReview": false
+ },
+ "לוּלֵא": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "אִלוּלֵא"
+  ],
+  "antonyms": [],
+  "example": "לולא הגשם, היינו יוצאים לטיול כמתוכנן.",
+  "needsReview": false
+ },
+ "לִיבָּה": {
+  "showNiqqud": true,
+  "root": "ל-ב-ב",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הורדת המסים היא ליבת התוכנית הכלכלית החדשה, וכל שאר הסעיפים נגזרים ממנה.",
+  "needsReview": false
+ },
+ "לִיטֵּשׁ": {
+  "showNiqqud": false,
+  "root": "ל-ט-ש",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הצורף ליטש את היהלום שעות ארוכות, עד שנצץ באור המנורה.",
+  "needsReview": false
+ },
+ "לִמְגִינַּת לִבּוֹ": {
+  "showNiqqud": false,
+  "root": "י-ג-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "למגינת לבו, נפסל הספר שכתב מלהשתתף בתחרות.",
+  "needsReview": false
+ },
+ "מַאֲכֶלֶת": {
+  "showNiqqud": false,
+  "root": "א-כ-ל",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אברהם נטל את המאכלת בידו, אך מלאך עצר אותו ברגע האחרון.",
+  "needsReview": false
+ },
+ "מֵאֵן": {
+  "showNiqqud": true,
+  "root": "מ-א-ן",
+  "synonyms": [],
+  "antonyms": [
+   "נֶעֱתַר",
+   "הִתְרַצָּה"
+  ],
+  "example": "האסיר מאן לחתום על ההודאה, גם לאחר שעות של חקירה.",
+  "needsReview": false
+ },
+ "מְבוּסָם": {
+  "showNiqqud": false,
+  "root": "ב-ס-ם",
+  "synonyms": [
+   "בְּגִלּוּפִין"
+  ],
+  "antonyms": [],
+  "example": "אחרי החתונה חזר הביתה מבוסם מעט, מזמזם לעצמו את שירי הריקודים.",
+  "needsReview": false
+ },
+ "מַגָּל": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בתמונה הישנה נראה איכר כפוף בשדה החיטה, מגל בידו ואלומות מונחות לצידו.",
+  "needsReview": false
+ },
+ "מָהוּהַּ": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הוא לבש מעיל מהוה, שהשרוולים שלו היו פרומים בקצותיהם.",
+  "needsReview": false
+ },
+ "מַזְמֵרָה": {
+  "showNiqqud": true,
+  "root": "ז-מ-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הגנן יצא אל הגינה כשמזמרה חדה בידו, וגזם את שיחי הוורדים.",
+  "needsReview": false
+ },
+ "מִכְמוֹרֶת": {
+  "showNiqqud": false,
+  "root": "כ-מ-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בשעת שחר משכו המלחים את המכמורת מן המים, וזו הייתה עמוסה בעשרות דגים מפרכסים.",
+  "needsReview": false
+ },
+ "מֵלִיץ יוֹשֶר": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "סָנֵגוֹר"
+  ],
+  "antonyms": [
+   "קָטֵגוֹר"
+  ],
+  "example": "המורה הוותיקה הייתה מליצת היושר של התלמיד בפני המנהל, ובזכותה לא הורחק.",
+  "needsReview": false
+ },
+ "מָסִיק": {
+  "showNiqqud": true,
+  "root": "נ-ס-ק",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בעונת המסיק יוצאים בני הכפר למטעים, ופורשים יריעות מתחת לעצים.",
+  "needsReview": false
+ },
+ "מִסְעָד": {
+  "showNiqqud": true,
+  "root": "ס-ע-ד",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הכיסא המתקפל היה חסר מסעד לגב, והזקן התקשה לשבת עליו זמן רב.",
+  "needsReview": false
+ },
+ "מַפַּח נֶפֶשׁ": {
+  "showNiqqud": false,
+  "root": "נ-פ-ח",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אחרי חודשים של הכנות נדחתה בקשתו, והדבר גרם לו מפח נפש עמוק.",
+  "needsReview": false
+ },
+ "מִצְנֶפֶת": {
+  "showNiqqud": false,
+  "root": "צ-נ-ף",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הכוהן הגדול חבש מצנפת לבנה על ראשו.",
+  "needsReview": false
+ },
+ "מִרְבָּץ": {
+  "showNiqqud": true,
+  "root": "ר-ב-ץ",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בדרום אפריקה נתגלה מרבץ זהב עשיר, ואלפי כורים נהרו לאזור.",
+  "needsReview": false
+ },
+ "מְשׁוּנָּן": {
+  "showNiqqud": true,
+  "root": "ש-נ-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לסכין הלחם להב משונן, שמאפשר לחתוך את הקרום בלי למעוך את הפרוסה.",
+  "needsReview": false
+ },
+ "מְתַאֲבֵן": {
+  "showNiqqud": true,
+  "root": "ת-א-ב",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לפני המנה העיקרית הוגש מתאבן של חצילים קלויים.",
+  "needsReview": false
+ },
+ "נִגַף": {
+  "showNiqqud": true,
+  "root": "נ-ג-ף",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הצבא נגף בקרב המכריע, ושרידיו נסוגו אל מעבר לנהר.",
+  "needsReview": false
+ },
+ "נֶגֶף": {
+  "showNiqqud": true,
+  "root": "נ-ג-ף",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בימי הביניים פשט הנגף בערי אירופה, ומחצית מתושביהן מתו.",
+  "needsReview": false
+ },
+ "נָדָן": {
+  "showNiqqud": true,
+  "root": "נ-ד-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "האביר שלף את הסייף מנדנו והתייצב מול יריבו.",
+  "needsReview": false
+ },
+ "נָהִיר": {
+  "showNiqqud": false,
+  "root": "נ-ה-ר",
+  "synonyms": [],
+  "antonyms": [
+   "סָתוּם"
+  ],
+  "example": "ההסבר של המורה היה נהיר לכולם, ואיש לא נזקק לשאול שאלות.",
+  "needsReview": false
+ },
+ "נֶהֶנְתָן": {
+  "showNiqqud": false,
+  "root": "ה-נ-ה",
+  "synonyms": [],
+  "antonyms": [
+   "סַגְפָן"
+  ],
+  "example": "הנהנתן בילה את ימיו במסעדות יוקרה ובחופשות, ולא חשב לרגע על המחר.",
+  "needsReview": false
+ },
+ "נוֹטֵר": {
+  "showNiqqud": true,
+  "root": "נ-ט-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "נוטר הכפר הסתובב בין השדות בלילה והשגיח שלא ייגנבו היבולים.",
+  "needsReview": false
+ },
+ "נוֹטֵר טִינָה": {
+  "showNiqqud": false,
+  "root": "נ-ט-ר",
+  "synonyms": [],
+  "antonyms": [
+   "מָחַל"
+  ],
+  "example": "גם עשר שנים אחרי המריבה, הוא עדיין נוטר טינה לאחיו.",
+  "needsReview": false
+ },
+ "נוּל": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "האורגת ישבה ליד הנול ושזרה חוטי צמר צבעוניים לשטיח.",
+  "needsReview": false
+ },
+ "נְחִיל": {
+  "showNiqqud": false,
+  "root": "נ-ח-ל",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "נחיל דבורים התיישב על העץ שבחצר, והילדים נמלטו לתוך הבית.",
+  "needsReview": false
+ },
+ "נֶחָמָה פּוּרְתָּא": {
+  "showNiqqud": false,
+  "root": "נ-ח-ם",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "ההפסד היה כואב, אך הזכייה בפרס המשחק ההוגן הייתה נחמה פורתא לקבוצה.",
+  "needsReview": false
+ },
+ "נַחְשׁוֹל": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "נחשול אדיר הציף את רצועת החוף ושטף את סוכות הדייגים.",
+  "needsReview": false
+ },
+ "נִטְמַע": {
+  "showNiqqud": false,
+  "root": "ט-מ-ע",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המהגרים נטמעו בתוך האוכלוסייה המקומית, ובתוך דור אחד שכחו את שפתם.",
+  "needsReview": false
+ },
+ "נִיחָא": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אם היה מאחר בחמש דקות – ניחא, אבל הוא הגיע אחרי שעה!",
+  "needsReview": false
+ },
+ "נִחַם": {
+  "showNiqqud": true,
+  "root": "נ-ח-ם",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "ביום שאחרי הוויכוח ניחם על דבריו הקשים, וביקש סליחה מאחיו.",
+  "needsReview": false
+ },
+ "נִיפָּה": {
+  "showNiqqud": true,
+  "root": "נ-פ-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "האופה ניפה את הקמח לפני שהכין את הבצק.",
+  "needsReview": false
+ },
+ "נִכּוּשׁ": {
+  "showNiqqud": false,
+  "root": "נ-כ-ש",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בחודשי האביב עסקו המתנדבים בניכוש הגינה הקהילתית.",
+  "needsReview": false
+ },
+ "נִכְלָם": {
+  "showNiqqud": false,
+  "root": "כ-ל-ם",
+  "synonyms": [
+   "בּוֹשׁ"
+  ],
+  "antonyms": [],
+  "example": "כשנחשף השקר, עמד התלמיד נכלם מול הכיתה כולה.",
+  "needsReview": false
+ },
+ "נֶעֱתַר": {
+  "showNiqqud": false,
+  "root": "ע-ת-ר",
+  "synonyms": [
+   "הִתְרַצָּה",
+   "נֵאוֹת"
+  ],
+  "antonyms": [
+   "מֵאֵן"
+  ],
+  "example": "המנהל נעתר לבקשת העובדים והוסיף יום חופש בסוף השנה.",
+  "needsReview": false
+ },
+ "נִפְעָם": {
+  "showNiqqud": false,
+  "root": "פ-ע-ם",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הקהל ישב נפעם מול המחזה המרגש, ורבים מחו דמעה.",
+  "needsReview": false
+ },
+ "נִקְוָוה": {
+  "showNiqqud": true,
+  "root": "ק-ו-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "מי הגשמים נקוו בשקע שבכביש ויצרו שלולית גדולה.",
+  "needsReview": false
+ },
+ "נִרְגָּן": {
+  "showNiqqud": false,
+  "root": "ר-ג-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הלקוח הנרגן מצא פגם בכל מנה שהוגשה לו.",
+  "needsReview": false
+ },
+ "נִרְפֶּה": {
+  "showNiqqud": false,
+  "root": "ר-פ-ה",
+  "synonyms": [
+   "הוֹלֵךְ בָּטֵל"
+  ],
+  "antonyms": [],
+  "example": "העובד הנרפה דחה כל משימה למחר, עד שפוטר.",
+  "needsReview": false
+ },
+ "סַוָּר": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הסוורים בנמל יפו העמיסו על גבם שקי תפוזים כבדים.",
+  "needsReview": false
+ },
+ "סוֹרֵר": {
+  "showNiqqud": false,
+  "root": "ס-ר-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הבן הסורר הפר את כל כללי הבית, והוריו כבר לא ידעו מה לעשות איתו.",
+  "needsReview": false
+ },
+ "סַיָּס": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הסייס ניקה את האורווה עם שחר, והכין את האוכף לקראת המרוץ.",
+  "needsReview": false
+ },
+ "סִיקֵּל": {
+  "showNiqqud": false,
+  "root": "ס-ק-ל",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לפני הנטיעה סיקלו החלוצים את השדה הטרשי במשך חודשים ארוכים.",
+  "needsReview": false
+ },
+ "סָנֵגוֹר": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [
+   "מֵלִיץ יוֹשֶר"
+  ],
+  "antonyms": [
+   "קָטֵגוֹר"
+  ],
+  "example": "הסנגור טען בפני השופטים שלקוחו לא היה בזירת הפשע.",
+  "needsReview": false
+ },
+ "סִתֵּת": {
+  "showNiqqud": true,
+  "root": "ס-ת-ת",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "האומן סיתת את גוש השיש במשך שבועות, עד שהתגלתה בו דמות אישה.",
+  "needsReview": false
+ },
+ "סַתָת": {
+  "showNiqqud": true,
+  "root": "ס-ת-ת",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הסתת הוותיק עבד על חזית בית הכנסת, והקפיד שכל אבן תיראה זהה לשכנתה.",
+  "needsReview": false
+ },
+ "עִילֵג": {
+  "showNiqqud": false,
+  "root": "ע-ל-ג",
+  "synonyms": [
+   "כְּבַד לָשׁוֹן / פֶּה"
+  ],
+  "antonyms": [],
+  "example": "העולה החדש דיבר בעברית עילגת, אך כולם הבינו את כוונתו.",
+  "needsReview": false
+ },
+ "עַלְוָוה": {
+  "showNiqqud": false,
+  "root": "ע-ל-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "העלווה הירוקה הסתירה את הבית מעיני העוברים ושבים.",
+  "needsReview": false
+ },
+ "עָמַד מִנֶּגֶד / מִן הַצַּד": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "כשהבריונים הציקו לילד, רוב התלמידים עמדו מנגד, ורק אחד מהם קרא למורה.",
+  "needsReview": false
+ },
+ "עָרֵב": {
+  "showNiqqud": true,
+  "root": "ע-ר-ב",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אחיו חתם כערב להלוואה, וכשהעסק קרס נאלץ לשלם את החוב בעצמו.",
+  "needsReview": false
+ },
+ "פִּיר": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הכורים ירדו בפיר עמוק אל מעמקי המכרה.",
+  "needsReview": false
+ },
+ "פָּלָה": {
+  "showNiqqud": true,
+  "root": "פ-ל-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הקופה ישבה על הענף ופלתה את גורה בסבלנות.",
+  "needsReview": false
+ },
+ "פָּמַלְיָה": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המלכה ירדה מן הכרכרה, וכל הפמליה שלה צעדה אחריה בטור מסודר.",
+  "needsReview": false
+ },
+ "פֶּרֶא": {
+  "showNiqqud": true,
+  "root": "פ-ר-א",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הפרא דהר בערבה, רחוק מכל יד אדם.",
+  "needsReview": false
+ },
+ "צִדֵד": {
+  "showNiqqud": true,
+  "root": "צ-ד-ד",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הנהג צידד את ההגה בחדות כדי לחמוק מן הבור.",
+  "needsReview": false
+ },
+ "קוֹרֶט / קַרְטוֹב": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "התבשיל זקוק רק לקורט מלח כדי להיות מושלם.",
+  "needsReview": false
+ },
+ "קוּשִיָה": {
+  "showNiqqud": false,
+  "root": "ק-ש-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "התלמיד העלה קושיה שהמרצה לא ידע לפתור.",
+  "needsReview": false
+ },
+ "קוֹשֵׁשׁ": {
+  "showNiqqud": true,
+  "root": "ק-ש-ש",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בערב קוששו הצופים זרדים יבשים, והבעירו אש גדולה במרכז המחנה.",
+  "needsReview": false
+ },
+ "קִיטוֹן": {
+  "showNiqqud": false,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המלון היה צפוף, וקיבלנו קיטון צר שבקושי נכנסה בו מיטה.",
+  "needsReview": false
+ },
+ "קָמַל": {
+  "showNiqqud": false,
+  "root": "ק-מ-ל",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הפרחים שבאגרטל קמלו, כי איש לא החליף בו את המים.",
+  "needsReview": false
+ },
+ "קְרִיסָה": {
+  "showNiqqud": false,
+  "root": "ק-ר-ס",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "קריסת הבניין הישן לאחר רעידת האדמה גבתה חיים רבים.",
+  "needsReview": false
+ },
+ "קְרִישָׁה": {
+  "showNiqqud": false,
+  "root": "ק-ר-ש",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "חולים הסובלים מהפרעת קרישה עלולים לדמם זמן רב מפצע קטן.",
+  "needsReview": false
+ },
+ "קָשַׁר (לוֹ) כְּתָרִים": {
+  "showNiqqud": false,
+  "root": "כ-ת-ר",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "המבקרים קשרו לו כתרים על ספר הביכורים שלו, וחזו לו עתיד מזהיר.",
+  "needsReview": false
+ },
+ "קַת": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הרובה נפל, וקתו העשויה עץ נסדקה לכל אורכה.",
+  "needsReview": false
+ },
+ "רָדָה": {
+  "showNiqqud": true,
+  "root": "ר-ד-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "בסוף האביב רדה הכוורן את החלות המלאות, והמילוי הזהוב נמזג לצנצנות.",
+  "needsReview": false
+ },
+ "רָוָוה": {
+  "showNiqqud": true,
+  "root": "ר-ו-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "אחרי המסע הארוך במדבר הגיעו המטיילים למעיין ורוו מן המים הקרים.",
+  "needsReview": false
+ },
+ "רָקִיק": {
+  "showNiqqud": false,
+  "root": "ר-ק-ק",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לצד המרק הוגשו רקיקי מצה פריכים.",
+  "needsReview": false
+ },
+ "רֶשֶף": {
+  "showNiqqud": true,
+  "root": "ר-ש-ף",
+  "synonyms": [
+   "גֵּץ"
+  ],
+  "antonyms": [],
+  "example": "רשפים התעופפו מן המדורה אל שמי הלילה.",
+  "needsReview": false
+ },
+ "רָשַׁף": {
+  "showNiqqud": true,
+  "root": "ר-ש-ף",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "עיניו רשפו כשגילה שרימו אותו, והוא דפק על השולחן.",
+  "needsReview": false
+ },
+ "שָׁאוֹן": {
+  "showNiqqud": false,
+  "root": "ש-א-ן",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "שאון המכוניות ברחוב הראשי לא הניח לי להירדם.",
+  "needsReview": false
+ },
+ "שְׁאַט נֶפֶשׁ": {
+  "showNiqqud": false,
+  "root": "ש-ו-ט",
+  "synonyms": [
+   "תִּיעוּב"
+  ],
+  "antonyms": [],
+  "example": "הציבור הגיב בשאט נפש לתמונות האכזריות שפורסמו.",
+  "needsReview": false
+ },
+ "שׁוֹקֵק (חַיִּים)": {
+  "showNiqqud": false,
+  "root": "ש-ק-ק",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "השוק היה שוקק חיים: רוכלים צעקו, וקונים נדחקו בין הדוכנים.",
+  "needsReview": false
+ },
+ "שִׁיסָה": {
+  "showNiqqud": false,
+  "root": "ש-ס-ה",
+  "synonyms": [
+   "הִדִּיחַ"
+  ],
+  "antonyms": [],
+  "example": "הפושע שיסה את כלבו בעובר האורח, והכלב נעץ בו את שיניו.",
+  "needsReview": false
+ },
+ "שָׁכִיחַ": {
+  "showNiqqud": false,
+  "root": "ש-כ-ח",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "צינון הוא מחלה שכיחה בחודשי החורף.",
+  "needsReview": false
+ },
+ "שָׁכַך": {
+  "showNiqqud": false,
+  "root": "ש-כ-ך",
+  "synonyms": [
+   "דָּמַם"
+  ],
+  "antonyms": [
+   "הִסְלִים"
+  ],
+  "example": "רק לאחר שעה שכך הסער, והדייגים יכלו לצאת אל הים.",
+  "needsReview": false
+ },
+ "שָׁלָה": {
+  "showNiqqud": true,
+  "root": "ש-ל-ה",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "הדייג שלה מן המים דג גדול שנאחז בחכתו.",
+  "needsReview": false
+ },
+ "שַׁמַּאי": {
+  "showNiqqud": true,
+  "root": "",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "לפני מכירת הדירה הוזמן שמאי כדי לקבוע את מחירה.",
+  "needsReview": false
+ },
+ "תֶּלֶם": {
+  "showNiqqud": false,
+  "root": "ת-ל-ם",
+  "synonyms": [],
+  "antonyms": [],
+  "example": "השדה החום התכסה תלמים ישרים, מוכנים לקבל את הזרעים.",
+  "needsReview": false
+ }
+}
