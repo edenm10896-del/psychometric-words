@@ -18,7 +18,12 @@
     for (const c of kids.flat()) if (c != null && c !== false) el.append(c.nodeType ? c : String(c));
     return el;
   }
-  function render(...nodes) { app.replaceChildren(...nodes); window.scrollTo(0, 0); }
+  let timer = null;
+  function render(...nodes) {
+    clearTimeout(timer);
+    app.replaceChildren(...nodes.filter((n) => n != null && n !== false));
+    window.scrollTo(0, 0);
+  }
   function toast(msg) {
     const t = h('div', { class: 'toast', role: 'status' }, msg);
     document.body.append(t); setTimeout(() => t.remove(), 2600);
@@ -65,7 +70,7 @@
     const hint = S.hints[w.id] || S.hints[w.vocalized];
     return [
       opts.showWord ? h('div', { class: 'word small' }, display(w)) : null,
-      h('div', { class: 'voc' }, w.vocalized),
+      opts.showWord || !w.showNiqqud ? h('div', { class: 'voc' }, w.vocalized) : null,
       h('ol', { class: 'defs' }, w.definitions.map((d) => h('li', null, d))),
       w.example ? h('div', { class: 'section' }, h('div', { class: 'h' }, 'משפט לדוגמה'), exampleNode(w)) : null,
       w.root ? h('div', { class: 'section' }, h('div', { class: 'h' }, 'שורש'), w.root) : null,
@@ -137,13 +142,15 @@
   }
   function doneScreen() {
     const c = S.counts();
+    const wait = S.nextLearningWait();
     render(topbar('כרטיסיות'), h('div', { class: 'done' },
       h('div', { class: 'big' }, '🎉'),
       h('h2', null, 'סיימת את המנה של היום'),
-      h('p', null, c.laterLearning ? c.laterLearning + ' מילים בשלבי לימוד יחזרו בעוד כמה דקות.' : 'אפשר לתרגל במבחן האמריקאי, או לחזור מחר.'),
+      h('p', null, c.laterLearning ? c.laterLearning + ' מילים בשלבי לימוד יחזרו ' + (wait != null ? 'בעוד ' + fmtInterval(wait) : 'בהמשך') + '. המסך יתעדכן לבד.' : 'אפשר לתרגל במבחן האמריקאי, או לחזור מחר.'),
       h('div', { class: 'actions' },
         h('button', { class: 'btn primary', onclick: () => quiz() }, 'מבחן אמריקאי'),
         h('button', { class: 'btn', onclick: home }, 'למסך הבית'))));
+    if (wait != null) timer = setTimeout(study, Math.max(1000, wait + 500));
   }
 
   /* ---------- multiple choice ---------- */

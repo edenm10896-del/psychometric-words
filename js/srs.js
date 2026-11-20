@@ -4,7 +4,7 @@
   const F = window.FSRS;
   const KEY = 'psy-words-progress-v1';
   const BACKLOG_LIMIT = 150;
-  const LEARN_AHEAD_MS = 20 * 60 * 1000;
+  const LEARN_AHEAD_MS = 60 * 1000; // only pull a card forward by up to a minute, so the 10-minute step is kept
   const HARD_FAILS = 5;
 
   const scheduler = F.fsrs(F.generatorParameters({
@@ -201,6 +201,18 @@
       if (a.length) return { id: a[0].id, kind: 'learning' };
       if (excludeId != null && (learning.length || reviews.length || ahead.length)) return { id: excludeId, kind: 'learning' };
       return null;
+    },
+
+    /* ms until the next learning-step card is due (null if none) */
+    nextLearningWait() {
+      let min = null; const now = Date.now();
+      for (const k in this.p.cards) {
+        const c = this.p.cards[k].c;
+        if (c.state === F.State.Review) continue;
+        const d = new Date(c.due) - now;
+        if (min == null || d < min) min = d;
+      }
+      return min == null ? null : Math.max(0, min);
     },
 
     streak() {
